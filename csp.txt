@@ -1,0 +1,378 @@
+Aut2016 
+Win2017 
+Request{['CS229', 'CS207'] [] [] 1} 
+['CS229', 'CS207'] 
+
+
+
+[]
+
+
+
+
+
+[]
+
+
+Request{['CS224N'] [] [] 1} 
+['CS224N'] 
+Request{['CS148'] [] [] 1} 
+['CS148'] 
+Request{['CS228'] [] [] 1} 
+['CS228'] 
+Request{['CS246'] [] [] 1} 
+['CS246'] 
+Request{['CS149'] [] [] 1} 
+['CS149'] 
+(Request{['CS229', 'CS207'] [] [] 1}, 'Aut2016') 
+(Request{['CS229', 'CS207'] [] [] 1}, 'Win2017') 
+(Request{['CS224N'] [] [] 1}, 'Aut2016') 
+(Request{['CS224N'] [] [] 1}, 'Win2017') 
+(Request{['CS148'] [] [] 1}, 'Aut2016') 
+(Request{['CS148'] [] [] 1}, 'Win2017') 
+(Request{['CS228'] [] [] 1}, 'Aut2016') 
+(Request{['CS228'] [] [] 1}, 'Win2017') 
+(Request{['CS246'] [] [] 1}, 'Aut2016') 
+(Request{['CS246'] [] [] 1}, 'Win2017') 
+(Request{['CS149'] [] [] 1}, 'Aut2016') 
+(Request{['CS149'] [] [] 1}, 'Win2017') 
+('CS229', 'Aut2016') 
+('CS229', 'Win2017') 
+('CS207', 'Aut2016') 
+('CS207', 'Win2017') 
+('CS224N', 'Aut2016') 
+('CS224N', 'Win2017') 
+('CS148', 'Aut2016') 
+('CS148', 'Win2017') 
+('CS228', 'Aut2016') 
+('CS228', 'Win2017') 
+('CS246', 'Aut2016') 
+('CS246', 'Win2017') 
+('CS149', 'Aut2016') 
+('CS149', 'Win2017') 
+('sum', 'Aut2016', 'agregated') 
+('sum', 'Aut2016', -1) 
+('sum', 'Aut2016', 0) 
+('sum', 'Aut2016', 1) 
+('sum', 'Aut2016', 2) 
+('sum', 'Aut2016', 3) 
+('sum', 'Aut2016', 4) 
+('sum', 'Aut2016', 5) 
+('sum', 'Aut2016', 6) 
+('sum', 'Win2017', 'agregated') 
+('sum', 'Win2017', -1) 
+('sum', 'Win2017', 0) 
+('sum', 'Win2017', 1) 
+('sum', 'Win2017', 2) 
+('sum', 'Win2017', 3) 
+('sum', 'Win2017', 4) 
+('sum', 'Win2017', 5) 
+('sum', 'Win2017', 6) 
+Aut2016 
+Win2017 
+Request{['CS229', 'CS205A'] [] [] 1} 
+['CS229', 'CS205A'] 
+Request{['CS224N'] [] [] 1} 
+['CS224N'] 
+Request{['CS148'] [] [] 1} 
+['CS148'] 
+Request{['CS228'] [] [] 1} 
+['CS228'] 
+Request{['CS246'] [] [] 1} 
+['CS246'] 
+Request{['CS149'] [] [] 1} 
+['CS149'] 
+(Request{['CS229', 'CS205A'] [] [] 1}, 'Aut2016') 
+(Request{['CS229', 'CS205A'] [] [] 1}, 'Win2017') 
+(Request{['CS224N'] [] [] 1}, 'Aut2016') 
+(Request{['CS224N'] [] [] 1}, 'Win2017') 
+(Request{['CS148'] [] [] 1}, 'Aut2016') 
+(Request{['CS148'] [] [] 1}, 'Win2017') 
+(Request{['CS228'] [] [] 1}, 'Aut2016') 
+(Request{['CS228'] [] [] 1}, 'Win2017') 
+(Request{['CS246'] [] [] 1}, 'Aut2016') 
+(Request{['CS246'] [] [] 1}, 'Win2017') 
+(Request{['CS149'] [] [] 1}, 'Aut2016') 
+(Request{['CS149'] [] [] 1}, 'Win2017') 
+('CS229', 'Aut2016') 
+('CS229', 'Win2017') 
+('CS205A', 'Aut2016') 
+('CS205A', 'Win2017') 
+('CS224N', 'Aut2016') 
+('CS224N', 'Win2017') 
+('CS148', 'Aut2016') 
+('CS148', 'Win2017') 
+('CS228', 'Aut2016') 
+('CS228', 'Win2017') 
+('CS246', 'Aut2016') 
+('CS246', 'Win2017') 
+('CS149', 'Aut2016') 
+('CS149', 'Win2017') 
+('sum', 'Aut2016', 'agregated') 
+('sum', 'Aut2016', -1) 
+('sum', 'Aut2016', 0) 
+('sum', 'Aut2016', 1) 
+('sum', 'Aut2016', 2) 
+('sum', 'Aut2016', 3) 
+('sum', 'Aut2016', 4) 
+('sum', 'Aut2016', 5) 
+('sum', 'Aut2016', 6) 
+('sum', 'Win2017', 'agregated') 
+('sum', 'Win2017', -1) 
+('sum', 'Win2017', 0) 
+('sum', 'Win2017', 1) 
+('sum', 'Win2017', 2) 
+('sum', 'Win2017', 3) 
+('sum', 'Win2017', 4) 
+('sum', 'Win2017', 5) 
+('sum', 'Win2017', 6) 
+Aut2016 
+Win2017 
+Spr2017 
+Aut2017 
+Request{['CS246'] ['Spr2017'] [] 1} 
+['CS246'] 
+Request{['CS228'] ['Aut2016'] [] 1} 
+['CS228'] 
+(Request{['CS246'] ['Spr2017'] [] 1}, 'Aut2016') 
+(Request{['CS246'] ['Spr2017'] [] 1}, 'Win2017') 
+(Request{['CS246'] ['Spr2017'] [] 1}, 'Spr2017') 
+(Request{['CS246'] ['Spr2017'] [] 1}, 'Aut2017') 
+(Request{['CS228'] ['Aut2016'] [] 1}, 'Aut2016') 
+(Request{['CS228'] ['Aut2016'] [] 1}, 'Win2017') 
+(Request{['CS228'] ['Aut2016'] [] 1}, 'Spr2017') 
+(Request{['CS228'] ['Aut2016'] [] 1}, 'Aut2017') 
+('CS246', 'Aut2016') 
+('CS246', 'Win2017') 
+('CS246', 'Spr2017') 
+('CS246', 'Aut2017') 
+('CS228', 'Aut2016') 
+('CS228', 'Win2017') 
+('CS228', 'Spr2017') 
+('CS228', 'Aut2017') 
+('sum', 'Aut2016', 'agregated') 
+('sum', 'Aut2016', -1) 
+('sum', 'Aut2016', 0) 
+('sum', 'Aut2016', 1) 
+('sum', 'Win2017', 'agregated') 
+('sum', 'Win2017', -1) 
+('sum', 'Win2017', 0) 
+('sum', 'Win2017', 1) 
+('sum', 'Spr2017', 'agregated') 
+('sum', 'Spr2017', -1) 
+('sum', 'Spr2017', 0) 
+('sum', 'Spr2017', 1) 
+('sum', 'Aut2017', 'agregated') 
+('sum', 'Aut2017', -1) 
+('sum', 'Aut2017', 0) 
+('sum', 'Aut2017', 1) 
+Aut2016 
+Win2017 
+Spr2017 
+Win2018 
+Request{['CS229'] [] [] 2.0} 
+['CS229'] 
+Request{['CS224N'] ['Aut2016'] [] 2.0} 
+['CS224N'] 
+Request{['CS205A'] ['Aut2016'] [] 1} 
+['CS205A'] 
+Request{['CS231A'] [] [] 3.0} 
+['CS231A'] 
+Request{['CS246'] ['Win2017'] [] 2.0} 
+['CS246'] 
+Request{['CS228'] ['Win2017'] [] 1} 
+['CS228'] 
+Request{['CS341'] [] [] 2.0} 
+['CS341'] 
+Request{['CS155'] ['Spr2017'] [] 2.0} 
+['CS155'] 
+Request{['CS143'] [] [] 1} 
+['CS143'] 
+Request{['CS229T'] [] ['CS229', 'CS228'] 2.0} 
+['CS229T'] 
+Request{['CS261'] ['Win2018'] [] 1} 
+['CS261'] 
+Request{['CS229A'] ['Win2018'] ['CS229'] 1} 
+['CS229A'] 
+(Request{['CS229'] [] [] 2.0}, 'Aut2016') 
+(Request{['CS229'] [] [] 2.0}, 'Win2017') 
+(Request{['CS229'] [] [] 2.0}, 'Spr2017') 
+(Request{['CS229'] [] [] 2.0}, 'Win2018') 
+(Request{['CS224N'] ['Aut2016'] [] 2.0}, 'Aut2016') 
+(Request{['CS224N'] ['Aut2016'] [] 2.0}, 'Win2017') 
+(Request{['CS224N'] ['Aut2016'] [] 2.0}, 'Spr2017') 
+(Request{['CS224N'] ['Aut2016'] [] 2.0}, 'Win2018') 
+(Request{['CS205A'] ['Aut2016'] [] 1}, 'Aut2016') 
+(Request{['CS205A'] ['Aut2016'] [] 1}, 'Win2017') 
+(Request{['CS205A'] ['Aut2016'] [] 1}, 'Spr2017') 
+(Request{['CS205A'] ['Aut2016'] [] 1}, 'Win2018') 
+(Request{['CS231A'] [] [] 3.0}, 'Aut2016') 
+(Request{['CS231A'] [] [] 3.0}, 'Win2017') 
+(Request{['CS231A'] [] [] 3.0}, 'Spr2017') 
+(Request{['CS231A'] [] [] 3.0}, 'Win2018') 
+(Request{['CS246'] ['Win2017'] [] 2.0}, 'Aut2016') 
+(Request{['CS246'] ['Win2017'] [] 2.0}, 'Win2017') 
+(Request{['CS246'] ['Win2017'] [] 2.0}, 'Spr2017') 
+(Request{['CS246'] ['Win2017'] [] 2.0}, 'Win2018') 
+(Request{['CS228'] ['Win2017'] [] 1}, 'Aut2016') 
+(Request{['CS228'] ['Win2017'] [] 1}, 'Win2017') 
+(Request{['CS228'] ['Win2017'] [] 1}, 'Spr2017') 
+(Request{['CS228'] ['Win2017'] [] 1}, 'Win2018') 
+(Request{['CS341'] [] [] 2.0}, 'Aut2016') 
+(Request{['CS341'] [] [] 2.0}, 'Win2017') 
+(Request{['CS341'] [] [] 2.0}, 'Spr2017') 
+(Request{['CS341'] [] [] 2.0}, 'Win2018') 
+(Request{['CS155'] ['Spr2017'] [] 2.0}, 'Aut2016') 
+(Request{['CS155'] ['Spr2017'] [] 2.0}, 'Win2017') 
+(Request{['CS155'] ['Spr2017'] [] 2.0}, 'Spr2017') 
+(Request{['CS155'] ['Spr2017'] [] 2.0}, 'Win2018') 
+(Request{['CS143'] [] [] 1}, 'Aut2016') 
+(Request{['CS143'] [] [] 1}, 'Win2017') 
+(Request{['CS143'] [] [] 1}, 'Spr2017') 
+(Request{['CS143'] [] [] 1}, 'Win2018') 
+(Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Aut2016') 
+(Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2017') 
+(Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017') 
+(Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018') 
+(Request{['CS261'] ['Win2018'] [] 1}, 'Aut2016') 
+(Request{['CS261'] ['Win2018'] [] 1}, 'Win2017') 
+(Request{['CS261'] ['Win2018'] [] 1}, 'Spr2017') 
+(Request{['CS261'] ['Win2018'] [] 1}, 'Win2018') 
+(Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Aut2016') 
+(Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2017') 
+(Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Spr2017') 
+(Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2018') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Aut2016'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Aut2016'), 'CS228'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2017'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2017'), 'CS229'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2017'), 'CS228'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2017'), 'CS228'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS229'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS229'), 1) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS228'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS228'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Spr2017'), 'CS228'), 1) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS229'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS229'), 1) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS229'), 2) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS228'), 'aggregated') 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS228'), 0) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS228'), 1) 
+('or', ((Request{['CS229T'] [] ['CS229', 'CS228'] 2.0}, 'Win2018'), 'CS228'), 2) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Aut2016'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2017'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2017'), 'CS229'), 0) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Spr2017'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Spr2017'), 'CS229'), 0) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Spr2017'), 'CS229'), 1) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2018'), 'CS229'), 'aggregated') 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2018'), 'CS229'), 0) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2018'), 'CS229'), 1) 
+('or', ((Request{['CS229A'] ['Win2018'] ['CS229'] 1}, 'Win2018'), 'CS229'), 2) 
+('CS229', 'Aut2016') 
+('CS229', 'Win2017') 
+('CS229', 'Spr2017') 
+('CS229', 'Win2018') 
+('CS224N', 'Aut2016') 
+('CS224N', 'Win2017') 
+('CS224N', 'Spr2017') 
+('CS224N', 'Win2018') 
+('CS205A', 'Aut2016') 
+('CS205A', 'Win2017') 
+('CS205A', 'Spr2017') 
+('CS205A', 'Win2018') 
+('CS231A', 'Aut2016') 
+('CS231A', 'Win2017') 
+('CS231A', 'Spr2017') 
+('CS231A', 'Win2018') 
+('CS246', 'Aut2016') 
+('CS246', 'Win2017') 
+('CS246', 'Spr2017') 
+('CS246', 'Win2018') 
+('CS228', 'Aut2016') 
+('CS228', 'Win2017') 
+('CS228', 'Spr2017') 
+('CS228', 'Win2018') 
+('CS341', 'Aut2016') 
+('CS341', 'Win2017') 
+('CS341', 'Spr2017') 
+('CS341', 'Win2018') 
+('CS155', 'Aut2016') 
+('CS155', 'Win2017') 
+('CS155', 'Spr2017') 
+('CS155', 'Win2018') 
+('CS143', 'Aut2016') 
+('CS143', 'Win2017') 
+('CS143', 'Spr2017') 
+('CS143', 'Win2018') 
+('CS229T', 'Aut2016') 
+('CS229T', 'Win2017') 
+('CS229T', 'Spr2017') 
+('CS229T', 'Win2018') 
+('CS261', 'Aut2016') 
+('CS261', 'Win2017') 
+('CS261', 'Spr2017') 
+('CS261', 'Win2018') 
+('CS229A', 'Aut2016') 
+('CS229A', 'Win2017') 
+('CS229A', 'Spr2017') 
+('CS229A', 'Win2018') 
+('sum', 'Aut2016', 'agregated') 
+('sum', 'Aut2016', -1) 
+('sum', 'Aut2016', 0) 
+('sum', 'Aut2016', 1) 
+('sum', 'Aut2016', 2) 
+('sum', 'Aut2016', 3) 
+('sum', 'Aut2016', 4) 
+('sum', 'Aut2016', 5) 
+('sum', 'Aut2016', 6) 
+('sum', 'Aut2016', 7) 
+('sum', 'Aut2016', 8) 
+('sum', 'Aut2016', 9) 
+('sum', 'Aut2016', 10) 
+('sum', 'Aut2016', 11) 
+('sum', 'Win2017', 'agregated') 
+('sum', 'Win2017', -1) 
+('sum', 'Win2017', 0) 
+('sum', 'Win2017', 1) 
+('sum', 'Win2017', 2) 
+('sum', 'Win2017', 3) 
+('sum', 'Win2017', 4) 
+('sum', 'Win2017', 5) 
+('sum', 'Win2017', 6) 
+('sum', 'Win2017', 7) 
+('sum', 'Win2017', 8) 
+('sum', 'Win2017', 9) 
+('sum', 'Win2017', 10) 
+('sum', 'Win2017', 11) 
+('sum', 'Spr2017', 'agregated') 
+('sum', 'Spr2017', -1) 
+('sum', 'Spr2017', 0) 
+('sum', 'Spr2017', 1) 
+('sum', 'Spr2017', 2) 
+('sum', 'Spr2017', 3) 
+('sum', 'Spr2017', 4) 
+('sum', 'Spr2017', 5) 
+('sum', 'Spr2017', 6) 
+('sum', 'Spr2017', 7) 
+('sum', 'Spr2017', 8) 
+('sum', 'Spr2017', 9) 
+('sum', 'Spr2017', 10) 
+('sum', 'Spr2017', 11) 
+('sum', 'Win2018', 'agregated') 
+('sum', 'Win2018', -1) 
+('sum', 'Win2018', 0) 
+('sum', 'Win2018', 1) 
+('sum', 'Win2018', 2) 
+('sum', 'Win2018', 3) 
+('sum', 'Win2018', 4) 
+('sum', 'Win2018', 5) 
+('sum', 'Win2018', 6) 
+('sum', 'Win2018', 7) 
+('sum', 'Win2018', 8) 
+('sum', 'Win2018', 9) 
+('sum', 'Win2018', 10) 
+('sum', 'Win2018', 11) 

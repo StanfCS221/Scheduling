@@ -1,2 +1,2 @@
 # Scheduling
-Making a Schedule by modeling it as a Constraint Satisfaction Problem.
+Modeling and solving the 'n queens' problem as CSP (n queens placed on nxn square grid such that no 2 queens are attacking each other). Choosing variables in descending order based on their constraint (start with the most constrained variable, if it's going to fail - lets at least fail early), lowering the number of operations. Using arc consistency (AC-3) to reduce the domain of neighboring variables and reduce the number of operations even further. Converting n-ary factors to binary factors (converting sum X1+x2+...Xn<Y to binary factors). Making an optimal schedule given constraints and wishes.
